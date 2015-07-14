@@ -1,2 +1,2 @@
-# QCPU-Social-Web-App
-My capstone project
+qcpu-mobile-web-app
+===================
